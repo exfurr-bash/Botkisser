@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 
 ```
-python3 geminiuwu.py
+python3 botkiss.py
 ```
 🚀 Comandos mais populares
 
